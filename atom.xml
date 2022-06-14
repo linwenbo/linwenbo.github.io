@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://linwenbo.github.io</id>
+    <title>Lin&apos;s Blog</title>
+    <updated>2022-06-14T10:02:45.869Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://linwenbo.github.io"/>
+    <link rel="self" href="https://linwenbo.github.io/atom.xml"/>
+    <subtitle>喵喵喵</subtitle>
+    <logo>https://linwenbo.github.io/images/avatar.png</logo>
+    <icon>https://linwenbo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Lin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[事务调度-冲突可串行化]]></title>
+        <id>https://linwenbo.github.io/post/shi-wu-diao-du-chong-tu-ke-chuan-xing-hua/</id>
+        <link href="https://linwenbo.github.io/post/shi-wu-diao-du-chong-tu-ke-chuan-xing-hua/">
+        </link>
+        <updated>2022-06-14T09:32:11.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://linwenbo.github.io/post-images/1655200945956.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
